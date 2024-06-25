@@ -1,1 +1,1 @@
-<h1 align='center'><font='red'> IN PROGRESSS...<font></h1>
+<h1 align="center" style="color:red;">IN PROGRESS...</h1>
